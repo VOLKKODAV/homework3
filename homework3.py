@@ -1,0 +1,7 @@
+my_string = (input('напиши имя '))
+print(len(my_string))
+print('очкошник макакиевич' .upper())
+print('очкошник макакиевич' .lower())
+print(my_string. replace(' ', ''))
+print(my_string[0])
+print(my_string[-1])
